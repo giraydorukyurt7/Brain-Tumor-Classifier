@@ -1,6 +1,6 @@
 # Brain Tumor Classifier using Convolutional Neural Networks
 
-![Model Architecture](model_plot2.png)
+![Model Architecture](model_plot_2.png)
 
 This project implements a Convolutional Neural Network (CNN) for classifying brain tumors with high accuracy. Using a well-structured CNN model, the classifier achieved **95.51% test accuracy**.
 
@@ -25,9 +25,12 @@ The model architecture is visualized in the image above (`model_plot2.png`). It 
    ```bash
    git clone https://github.com/yourusername/brain-tumor-classifier.git
    cd brain-tumor-classifier
+   ```
 2. Place the dataset in the data/ directory with the structure:
-Project:
-└───Dataset
-    ├───Dataset_nonsplit
-    │   ├───Brain Tumor
-    │   └───Healthy
+    ```bash
+    Project:
+    └───Dataset
+        ├───Dataset_nonsplit
+        │   ├───Brain Tumor
+        │   └───Healthy
+    ```
