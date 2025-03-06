@@ -23,7 +23,7 @@ The model architecture is visualized in the image above (`model_plot2.png`). It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-classifier.git
+   git clone https://github.com/giraydorukyurt7/brain-tumor-classifier.git
    cd brain-tumor-classifier
    ```
 2. Place the dataset in the data/ directory with the structure:
@@ -33,4 +33,5 @@ The model architecture is visualized in the image above (`model_plot2.png`). It 
         ├───Dataset_nonsplit
         │   ├───Brain Tumor
         │   └───Healthy
+    └───Brain_Tumor_Classifier.ipynb
     ```
